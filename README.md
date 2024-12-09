@@ -9,4 +9,4 @@ My data science and analytics projects
 E-mail : pitcha.ratana@gmail.com
 
 ## Image
-![Minion](https://despicableme.fandom.com/wiki/Minions?file=DM3_Minions_.jpg)
+![Data](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzD-eBCcIVnsuCRXvwqLSmJjCesL7j55N4XQ&s)
